@@ -2,7 +2,7 @@
  * Copyright (C), 2021-2022, yuanyeaf
  * Date: 2022/8/9 11:17
  * FileName: ExtendsDemo
- * Description: 一个继承的Demo
+ * Description: Chap1.5-一个继承的Demo
  * Version: 1.0
  */
 
